@@ -1,4 +1,4 @@
-# NuxtClient
+# Nuxt Movie App
 
 ## Build Setup
 
